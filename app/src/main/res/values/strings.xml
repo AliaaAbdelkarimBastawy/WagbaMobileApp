@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Wagba_Application</string>
+    <string name="text_1">Fatest Food Delivery</string>
+    <string name="text_2">2 Delivery Gates</string>
+    <string name="text_3">We have 2 delivery points gate 3 and 4</string>
+    <string name="text_4">2 Delivery Times</string>
+    <string name="text_5">We have 2 delivery times 12:00 noon and 3:00 pm</string>
+    <string name="text_6">Place your Order</string>
+    <string name="text_7">To deliver at 12:00 noon, you have to place your order before 10:00 am.
+        To deliver at 3:00 pm, you have to place your order before 1:00 pm</string>
+    <string name="btn1">Skip</string>
+
+
+    <string name="login1">Login Account</string>
+    <string name="login2">Email</string>
+    <string name="login3">Enter your email</string>
+    <string name="login4">Password</string>
+    <string name="login5">Enter your password</string>
+    <string name="login6">Forget Password?</string>
+    <string name="login7">Log in</string>
+    <string name="login8">Not register yet?</string>
+    <string name="login9">Create Account</string>
+
+    <string name="signup1">Create Account</string>
+    <string name="signup2">Username</string>
+    <string name="signup3">Enter your name</string>
+    <string name="signup4">Email</string>
+    <string name="signup5">Enter your email</string>
+    <string name="signup6">Password</string>
+    <string name="signup7">Enter your password</string>
+    <string name="signup8">Confirmation Password</string>
+    <string name="signup9">Sign Up</string>
+    <string name="signup10">Already have an account?</string>
+    <string name="signup11">Login</string>
+
+
+    <string name="item1">Burger King</string>
+    <string name="item2">15.0 EGP OFF</string>
+    <string name="item3">3.87 KM</string>
+    <string name="item4">4.9</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation">bottomNavigationActivity</string>
+    <string name="title_home">Restaurants</string>
+    <string name="title_order">Order</string>
+    <string name="title_trackorder">Track Order</string>
+    <string name="title_Account">Account</string>
+
+
+    <string name="Account1">Account</string>
+    <string name="Account2">User</string>
+    <string name="Account3">Edit Account</string>
+    <string name="Account4">Logout</string>
+
+    <string name="date">yesterday</string>
+    <string name="numberOfItems">6 items</string>
+
+    <string name="orderInfo1">Order ID:</string>
+    <string name="orderInfo2">#43e211GH</string>
+    <string name="orderInfo3">Order Status:</string>
+    <string name="orderInfo4">Delivered</string>
+    <string name="orderInfo5">Delivery Gate:</string>
+    <string name="orderInfo6">4</string>
+    <string name="orderInfo7">Delivery Time:</string>
+    <string name="orderInfo8">12:00 noon</string>
+
+    <string name="orderInfo9">Delivery Man</string>
+    <string name="orderInfo10">Name</string>
+    <string name="orderInfo11">Ahmed Khaled</string>
+    <string name="orderInfo12">Phone No</string>
+    <string name="orderInfo13">01283828092</string>
+    <string name="orderInfo14">Order Details</string>
+
+
+    <string name="orderInfo15">1 Burger sandwich</string>
+    <string name="orderInfo16">75 EGP</string>
+    <string name="orderInfo17">1 Burger sandwich</string>
+    <string name="orderInfo18">75 EGP</string>
+    <string name="orderInfo19">Delivery Charge</string>
+    <string name="orderInfo20">0 EGP</string>
+    <string name="orderInfo21">TOTAL</string>
+    <string name="orderInfo22">150 EGP</string>
+    <string name="orderInfoBtn">Ok</string>
+    <string name="SubTotal">Subtotal</string>
+    <string name="Subtotal_Fees">0 EGP</string>
+    <string name="CartContinuebtn">Checkout</string>
+
+
+    <string name="NumberOfItems">3</string>
+
+    <string name="PlateNo_Of_items">3</string>
+    <string name="PlateTitle">Burger King</string>
+    <string name="PlatePrice">75 EGP</string>
+
+    <string name="AddToCartBtn">Add to Cart</string>
+
+
+    <string name="EditAccountbtn">Update</string>
+
+
+    <string name="NewOrderFrom">New Order From</string>
+    <string name="KansasFriedChicken">Kansas Fried Chicken</string>
+
+
+    <string name="Gate3">Gate 3</string>
+    <string name="Gate4">Gate 4</string>
+
+    <string name="Time1">12:00 noon</string>
+    <string name="Time2">3:00 PM</string>
+
+    <string name="CheckoutBtn">Pay</string>
+
+    <string name="orderIsPlaced1">Your Order Successfully Placed!</string>
+    <string name="orderIsPlaced2">Your order has been successfully placed and has been processed for delivery</string>
+    <string name="OkBtn">Ok</string>
+
+    <string name="track_order">Track Order</string>
+    <string name="cancel">Cancel</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="order_number">Order number</string>
+    <string name="_30_minutes">30 Minutes</string>
+    <string name="order_number_value">#C862966</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="we_have_received_your_order">We have received your order</string>
+    <string name="order_confirmed">Order Confirmed</string>
+    <string name="your_order_has_been_confimed">Your order has been confimed</string>
+    <string name="order_processed">Order Processed</string>
+    <string name="we_are_preparing_your_order">We are preparing your order</string>
+    <string name="ready_to_pickup">Order is on delivery</string>
+    <string name="your_order_is_ready_for_pickup">Your order is ready for pickup</string>
+
+    <string name="EmptyCart">Your Cart is Empty!</string>
+    <string name="NoConnection">No Internet Connection!</string>
+
+    <string name="CreditCard1">Enter your Credit Card Number</string>
+    <string name="CreditCard2">71982798172987</string>
+    <string name="NetPrice">75</string>
+
+    <string name="burgerCheese">Cheese Burger</string>
+    <string name="burgerBeef">Beef Burger</string>
+    <string name="BeefPrice">99 EGP</string>
+    <string name="burgerkingdescription">American Burger,Fast Food</string>
+
+
+</resources>
